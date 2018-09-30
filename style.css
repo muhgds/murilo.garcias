@@ -1,0 +1,75 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+
+h1 {
+    font-family: fantasy;
+    font-size: 60   px;
+    color: rgba(47, 47, 126, 0.89);
+}
+h2{
+    font-size: 30px;
+    font-family: Impact;
+    color: rgba(47, 47, 126, 0.89);
+
+}
+p{
+    font-size: 20px;
+    font-family: 'Lucida Sans'; 
+    color: rgba(47, 47, 126, 0.89);
+}
+
+
+.somos {
+    text-align: center;
+    font-size: 30px;
+    background-image: url(http://innovaresaude.com.br/wp-content/uploads/2015/01/white-abstract-75-wallpaper-background-hd.jpg);
+ 
+}
+
+.oq{
+    
+    width: 300px;
+    height: 200px;
+    
+}
+
+.como {
+    width: 400px;
+
+}
+
+.meio{
+    display: flex;
+    justify-content: center;
+}
+
+.meio2{
+    display: flex;
+    justify-content: center;
+
+}
+
+.par1{display: flex;
+    justify-content: right;
+   
+}
+
+.par2{
+    display: flex;
+    justify-content: left;
+    
+}
+.pergunta{
+    background-color: blanchedalmond;
+    border-radius: 10px;
+   
+}
+
+.pergunta:hover {
+    cursor: pointer;
+}
+
+       
